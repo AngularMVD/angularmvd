@@ -7,15 +7,3 @@ Presentamos y discutimos temas variados, desde javascript y Angular, hasta perfo
 
 ## Proponé un tema
 Tenés ganas de dar una charla, mostrar algo en lo que estás trabajando, o simplemente contarnos de algo interesante? Creá un nuevo [issue](https://github.com/AngularMVD/angularmvd/issues) en este repo y contanos un poco.
-
-### Template para proponer una charla
-```
-# Título de la charla
-
-Descripción corta de la charla. Por qué el tema es interesante y en qué nos podría ayudar como desarrolladores?
-
-* Tu nombre
-* [Twitter]()
-* [Github]()
-* [Website]()
-```
